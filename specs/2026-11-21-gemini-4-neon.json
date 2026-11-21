@@ -1,0 +1,7 @@
+{"slug":"2026-11-21-gemini-4-neon","carousel":{"slides":[
+{"kicker":"AI NEWS","title":"Google's new AI doesn't just answer. It manages a team of AIs."},
+{"kicker":"WHAT HAPPENED","title":"Meet Gemini 4 Neon","body":"Google launched Gemini 4 Neon on November 18. It's built for long, multi-step work like coding, research and knowledge work, not just quick chat replies."},
+{"kicker":"THE TWIST","title":"One AI plans, others do the work","body":"In Google's Antigravity coding app, Neon can act as an orchestrator. It plans the job, then hands pieces to faster Gemini 4 Hydrogen sub-agents that work in parallel."},
+{"kicker":"BIG MEMORY","title":"Up to 512K tokens of context","body":"That's room for hundreds of pages of documents or a large chunk of a codebase in a single conversation."},
+{"kicker":"WHO GETS IT","title":"Paid users first","body":"Rolling out in the Gemini API and Google AI Studio, Gemini for business, and for Google AI Pro and Ultra subscribers in the Gemini app and Antigravity. Not on Free or Plus plans."},
+{"kicker":"WHY IT MATTERS","title":"AI is shifting from chatbot to manager","body":"The race isn't only about smarter answers anymore. It's about AIs that split up big jobs and run them like a team.\n\nFollow @theunseencue for the AI stories nobody's covering yet."}]}}

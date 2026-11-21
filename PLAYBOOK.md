@@ -16,10 +16,11 @@ Gmail connector, Bash (python3, ffmpeg, git), web fetching.
 - Alternate formats: if the last post was a `reel`, make a `carousel` and vice versa.
 
 ## 2. Find a story (trend arbitrage)
-- Check Hacker News front page (https://hacker-news.firebaseio.com/v0/topstories.json),
-  Reddit (r/artificial, r/LocalLLaMA, r/singularity, r/OpenAI: `/top.json?t=day`),
-  and GitHub trending.
-- Pick ONE AI/tech story that is **less than 48 hours old**, getting fast engagement, and
+- Use the WebSearch tool (mode "extended") to find the last 1 to 3 days of AI news, e.g.
+  "AI news <today's date>", "AI launch this week", plus Hacker News / Reddit / GitHub trending
+  coverage. Direct curl/web fetches to most sites are blocked in this environment, so rely on
+  WebSearch; use `allowed_domains` set to the company's own domain to read primary sources.
+- Pick ONE AI/tech story that is **less than 72 hours old**, getting fast engagement, and
   interesting to a general audience (new tools, launches, surprising research, big company moves).
 - Skip anything whose topic or URL is already in `posted.json`.
 - Skip politics, tragedies, rumors, leaks, stock tips, and NSFW.
@@ -56,8 +57,8 @@ a source line ("Source: <publisher>"); then 3 to 5 relevant hashtags. Under 2,00
 ## 6. Host
 - `git add specs media && git commit -m "media: <slug>" && git push origin main`
 - Get the commit SHA (`git rev-parse HEAD`). Public URLs are:
-  `https://cdn.jsdelivr.net/gh/24mangalprabha-alt/theunseencue-media@<SHA>/media/<slug>/<file>`
-- Check each URL returns HTTP 200 with `curl -sI` before posting (retry up to 3 times, 20s apart).
+  `https://raw.githubusercontent.com/24mangalprabha-alt/theunseencue-media/<SHA>/media/<slug>/<file>`
+- Check each URL returns HTTP 200 with `curl -sI` (raw.githubusercontent.com is reachable) before posting (retry up to 3 times, 20s apart).
 
 ## 7. Publish (Windsor.ai `execute_action`, connector `instagram`, account `17841450170476570`)
 - Carousel: action `create_carousel_post`, params `{image_urls: [...in order...], caption}`.
