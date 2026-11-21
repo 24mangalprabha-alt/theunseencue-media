@@ -3,9 +3,25 @@
     "slug": "2026-11-21-gemini-4-neon",
     "format": "carousel",
     "topic": "Google launches Gemini 4 Neon (orchestrates Hydrogen sub-agents)",
-    "sources": ["https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/", "https://antigravity.google/blog/gemini-4-neon-in-google-antigravity/"],
+    "sources": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "https://antigravity.google/blog/gemini-4-neon-in-google-antigravity/"
+    ],
     "media_id": "17967153387213679",
     "posted_at": "2026-11-21T08:05:00Z",
     "caption_hook": "Google's newest AI doesn't just answer questions. It runs a team of other AIs."
+  },
+  {
+    "slug": "2026-11-21-1410-gemini-mac-computer-use",
+    "format": "reel",
+    "topic": "Gemini app on Mac gets computer use (Google, 19 Nov 2026)",
+    "sources": [
+      "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "https://support.google.com/gemini/answer/18956635",
+      "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    ],
+    "media_id": "18060383696803364",
+    "posted_at": "2026-11-21T12:30:00Z",
+    "caption_hook": "Google's AI can now take over your Mac and do the clicking for you."
   }
 ]
