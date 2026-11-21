@@ -7,7 +7,7 @@ spec.json:
 {
   "slug": "2026-11-21-some-story",
   "carousel": {"slides": [{"kicker": "AI NEWS", "title": "...", "body": "..."}, ...]},
-  "reel": {"frames": [{"text": "...", "seconds": 3.0}, ...]}
+  "reel": {"frames": [{"text": "...", "seconds": 3.0}, ...], "audio": "optional/voice.wav"}
 }
 Outputs in OUT_DIR: carousel_01.jpg ... (1080x1350 JPEG), reel.mp4 (1080x1920), reel_cover.jpg
 """
@@ -105,7 +105,7 @@ def reel_frame(text, i, n, path):
     im.save(path, "JPEG", quality=92)
 
 
-def make_reel(frames, out):
+def make_reel(frames, out, audio=None):
     tmp = os.path.join(out, "_frames")
     os.makedirs(tmp, exist_ok=True)
     parts = []
@@ -125,7 +125,7 @@ def make_reel(frames, out):
     with open(lst, "w") as fh:
         fh.writelines(f"file '{p}'\n" for p in parts)
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst,
-                    "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-shortest",
+                    *(["-i", audio] if audio else ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"]), "-shortest",
                     "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p", "-profile:v", "high",
                     "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart",
                     os.path.join(out, "reel.mp4")], check=True)
@@ -142,7 +142,7 @@ def main():
     for i, s in enumerate(slides, 1):
         carousel_slide(s, i, len(slides), os.path.join(out, f"carousel_{i:02d}.jpg"))
     if spec.get("reel", {}).get("frames"):
-        make_reel(spec["reel"]["frames"], out)
+        make_reel(spec["reel"]["frames"], out, spec["reel"].get("audio"))
     print("\n".join(sorted(os.listdir(out))))
 
 

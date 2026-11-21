@@ -1,9 +1,36 @@
-{"slug":"2026-11-21-1410-gemini-mac-computer-use",
-"reel":{"frames":[
-{"text":"Google's AI can now use your Mac for you","seconds":2.5},
-{"text":"It clicks, types and fills in forms across your apps and websites","seconds":3.5},
-{"text":"You choose which apps it can touch. One click stops it.","seconds":3.5},
-{"text":"It pauses for logins and payments, and asks before sensitive steps","seconds":3.5},
-{"text":"Google's own warning: some actions can't be undone","seconds":3},
-{"text":"For now: US, English, paid plans, Apple Silicon Macs","seconds":3},
-{"text":"Follow @theunseencue for the AI stories nobody's covering yet","seconds":3}]}}
+{
+ "slug": "2026-11-21-1410-gemini-mac-computer-use",
+ "reel": {
+  "frames": [
+   {
+    "text": "Google's AI can now use your Mac for you",
+    "seconds": 2.5
+   },
+   {
+    "text": "It clicks, types and fills in forms across your apps and websites",
+    "seconds": 3.64
+   },
+   {
+    "text": "You choose which apps it can touch. One click stops it.",
+    "seconds": 3.0
+   },
+   {
+    "text": "It pauses for logins and payments, and asks before sensitive steps",
+    "seconds": 4.12
+   },
+   {
+    "text": "Google's own warning: some actions can't be undone",
+    "seconds": 3.26
+   },
+   {
+    "text": "For now: US, English, paid plans, Apple Silicon Macs",
+    "seconds": 4.86
+   },
+   {
+    "text": "Follow @theunseencue for the AI stories nobody's covering yet",
+    "seconds": 3.62
+   }
+  ],
+  "audio": "specs/2026-11-21-1410-gemini-mac-computer-use-voice.wav"
+ }
+}
