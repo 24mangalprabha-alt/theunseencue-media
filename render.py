@@ -136,7 +136,7 @@ def make_reel(frames, out):
 
 def main():
     spec = json.load(open(sys.argv[1]))
-    out = sys.argv[2]
+    out = os.path.abspath(sys.argv[2])
     os.makedirs(out, exist_ok=True)
     slides = spec.get("carousel", {}).get("slides", [])
     for i, s in enumerate(slides, 1):
