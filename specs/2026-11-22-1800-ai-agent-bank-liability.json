@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-22-1800-ai-agent-bank-liability",
+ "reel": {
+  "frames": [
+   {
+    "text": "AI can now use your computer",
+    "seconds": 1.98
+   },
+   {
+    "text": "And your bank says: if it messes up, you pay",
+    "seconds": 2.88
+   },
+   {
+    "text": "This week, Google let Gemini click and type on your Mac",
+    "seconds": 3.14
+   },
+   {
+    "text": "Citi's new terms: you're responsible for what your AI agent does",
+    "seconds": 3.78
+   },
+   {
+    "text": "Even mistakes it makes on its own",
+    "seconds": 2.08
+   },
+   {
+    "text": "Give it your login, and Citi treats its actions as yours",
+    "seconds": 3.16
+   },
+   {
+    "text": "JPMorgan and Bank of America reportedly have similar rules",
+    "seconds": 3.18
+   },
+   {
+    "text": "Never give an AI agent your bank login",
+    "seconds": 2.82
+   },
+   {
+    "text": "Follow @theunseencue for the AI stories nobody's covering yet",
+    "seconds": 2.98
+   }
+  ],
+  "audio": "specs/2026-11-22-1800-ai-agent-bank-liability-voice.wav"
+ }
+}
