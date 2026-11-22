@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-22-1800-ai-agent-bank-liability",
+  "format": "reel",
+  "topic": "Banks (Citi, JPMorgan, BofA, PNC) make customers liable for third-party AI agent actions",
+  "video_url": "https://raw.githubusercontent.com/24mangalprabha-alt/theunseencue-media/61a2699feff2889e205f41b994802608a3a95643/media/2026-11-22-1800-ai-agent-bank-liability/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/24mangalprabha-alt/theunseencue-media/61a2699feff2889e205f41b994802608a3a95643/media/2026-11-22-1800-ai-agent-bank-liability/reel_cover.jpg",
+  "caption": "Give an AI agent your bank login, and your bank may say every move it makes is on you.\n\nAI agents can now click, type and fill in forms on your computer. Citi just updated its online terms: if you share your login with a third-party AI agent, Citi treats everything it does as authorized by you. That includes mistakes, going beyond what you asked, or your login leaking to someone else.\n\nCiti also says watching what the agent does is your job, and it can block third-party AI access at any time.\n\nJPMorgan and Bank of America reportedly made similar changes, and PNC did too.\n\nSimple rule for now: don't hand an AI agent your bank login.\n\nWould you trust an AI with your bank account? \ud83d\udc47\n\nSource: TechCrunch, Decrypt\n\n#AI #AIagents #banking #cybersecurity #technews",
+  "sources": [
+    "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"
+  ]
+}
