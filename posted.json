@@ -23,5 +23,18 @@
     "media_id": "18060383696803364",
     "posted_at": "2026-11-21T12:30:00Z",
     "caption_hook": "Google's AI can now take over your Mac and do the clicking for you."
+  },
+  {
+    "slug": "2026-11-22-0015-signal-blocks-ai-screen",
+    "format": "carousel",
+    "topic": "Signal blocks phone AI assistants (Siri, Gemini) from reading chats via screenshots",
+    "sources": [
+      "https://signal.org/blog/protecting-your-privacy/",
+      "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "https://cyberinsider.com/signal-blocks-screenshots-ios-27-android-ai-assistants/"
+    ],
+    "media_id": "18114742412156864",
+    "posted_at": "2026-11-22T13:06:30Z",
+    "caption_hook": "Signal is now blocking your phone's AI assistant from reading your private chats."
   }
 ]
