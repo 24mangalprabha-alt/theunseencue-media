@@ -1,0 +1,7 @@
+{"slug":"2026-11-22-0015-signal-blocks-ai-screen","carousel":{"slides":[
+{"kicker":"AI NEWS","title":"Signal is locking AI assistants out of your private chats."},
+{"kicker":"WHAT HAPPENED","title":"Signal vs. Siri and Gemini","body":"Signal says built-in phone AI assistants can read what's on your screen. So it's now blocking them from seeing your chats on iPhone and Android."},
+{"kicker":"HOW IT WORKS","title":"It watches for AI peeking","body":"On Android, Signal turns on its Screen security setting when it detects an AI assistant trying to read the screen. On iPhone, there's a new \"Block Siri AI\" setting."},
+{"kicker":"THE CATCH","title":"Signal admits it's not perfect","body":"It can't reliably block screenshots on Mac. And it says AI agents could still reach app data in sneakier ways, like through files already on your device."},
+{"kicker":"YOUR CHOICE","title":"You can turn it off","body":"But Signal warns that doing so could expose your messages, and your contacts' messages, to these AI agents."},
+{"kicker":"WHY IT MATTERS","title":"Your phone's AI vs. your privacy","body":"AI assistants that see everything on your screen are becoming normal. Apps are starting to fight back.\n\nFollow @theunseencue for the AI stories nobody's covering yet."}]}}
