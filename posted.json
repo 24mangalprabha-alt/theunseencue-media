@@ -36,5 +36,17 @@
     "media_id": "18114742412156864",
     "posted_at": "2026-11-22T13:06:30Z",
     "caption_hook": "Signal is now blocking your phone's AI assistant from reading your private chats."
+  },
+  {
+    "slug": "2026-11-22-1800-ai-agent-bank-liability",
+    "format": "reel",
+    "topic": "Banks (Citi, JPMorgan, BofA, PNC) make customers liable for third-party AI agent actions",
+    "sources": [
+      "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"
+    ],
+    "media_id": "unknown (owner says already posted)",
+    "posted_at": "2026-11-23T02:04:46Z",
+    "caption_hook": "Give an AI agent your bank login, and your bank may say every move it makes is on you."
   }
 ]
