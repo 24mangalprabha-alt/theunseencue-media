@@ -1,0 +1,10 @@
+Your AI coding agent might be installing malware for you.
+A security firm just tested eight search tools that AI agents use.
+Every single one returned malicious results.
+Here's how it happens.
+Your agent hits an error, searches the web, and picks the top GitHub repo.
+In one test, that top repo installed a remote access trojan.
+With auto-run on, nobody checks that install command.
+So turn off auto-run for terminal commands.
+Let AI write the code. You approve what runs.
+Follow for the AI stories nobody's covering yet.
