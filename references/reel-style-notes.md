@@ -137,3 +137,56 @@ What two reference reels look like, written so Scout can build its own reels in 
   - no progress bar
   - captions synced to the voice in small chunks
   - a CTA that shows the comment keyword being typed
+
+---
+
+## The whole account: what actually works for @ryan_bro0ks
+
+**Profile, as of 25 Nov 2026:**
+- 2,038 followers, 39 posts.
+- Bio: "Turn AI video editing into a business. Learn to create, sell & get clients."
+- Niche: Claude-made motion graphics, plus selling them as a service.
+
+**Views, read from the reels grid:**
+- Median of his last 12 reels: about **3,000 views**.
+- Older reels typically got 100–1,000.
+
+**How each reel did compared with that median.** I sampled frames from every reel in this table.
+
+| Reel | Views | × median | Format | Topic / hook |
+|---|---|---|---|---|
+| DgH4GAaqd91 | 62.9k | **~21×** | Style A wireframe | "You can make the most detailed animations… but Claude's animations…" → comment "skill" |
+| DgBYbxYKIWv | 56.3k | **~19×** | Dark grid + orange accent, kinetic type, MOTION.md card | "Most AI animations look robotic" → this file/skill fixes it |
+| Df0hZHgK2jB | 19.3k | **~15×** (vs the median at that time, about 1k) | Dark glass UI card, "ease: linear" demo, Claude logo, "Learn this skill" | "Most AI-generated [animations] look robotic" |
+| DgGSxNwo-uh | 1.6k | 0.5× | Phone-filmed screen recording + "claude just cooked 🔥 comment 'skill'" | Raw demo |
+| DfvJsB4qdTZ | 416 | ~0.4× | Style A wireframe (same look as the 62.9k hit) | Freelance cold DMs ("Everybody tells you…") |
+| DfpPh3Vq_C5 (ref B) | 644 | ~0.6× | Style B light SaaS | Client acquisition kit |
+
+### What this tells us (12 recent reels plus older grid counts, so confidence is moderate)
+
+1. **The look is not what made his reels pop.** The same wireframe style got 62.9k on one topic and 416 on another.
+2. **All 3 outliers use the same hook**: "Most AI animations look robotic" (a common problem everyone has seen) → show the fix → "comment *skill*". That's a pain-point hook plus a visible before/after plus a comment keyword.
+3. **The topic is "AI tool does X better"**, with Claude named, so the hook points at a tool people already use.
+   - His business and freelancing topics (getting clients, DMs) all sit under the median, even with the premium visuals.
+4. **Phone-filmed screen recordings ("claude just cooked") underperform.** His polished, designed motion reels beat raw demos by roughly 20×.
+5. **The first frame always shows movement and a big headline in the first 0.3s.** The text resolves from a blur, and one accent word is coloured or in a different font, like "robotic" in orange mono.
+
+### Style C: "dark grid + one hot accent" (the 56.3k and 19.3k hits)
+
+- **Background:** near-black #0E0F12 with a faint dot grid and a warm orange glow from the bottom corner.
+- **Text and accent:** white bold sans headline with ONE accent word in orange #FF6A2B, sometimes in a monospace font ("robotic").
+- **Shapes and cards:**
+  - an orange rounded square or a starburst as the "animated object"
+  - frosted dark glass cards with mono labels ("AI-generated", "ease: linear")
+  - a cream paper card for the file (MOTION.md)
+- **Motion:**
+  - motion blur on fast moves
+  - text that wobbles or distorts to show "bad" animation, then a clean version
+  - a brief flip to a cream background (#F1ECE3) to show the "smooth" result
+- **Ending:** the Claude logo plus a "Learn this skill" bar, which is the comment-keyword CTA.
+
+### What to steal for @theunseencue
+- Lead with a **problem the viewer has already felt** about an AI tool they use ("Your AI agent can run commands without asking"), not a news headline.
+- Show it visibly: a broken or dangerous version first, then the fix (for example auto-run ON → keys leak, then OFF → blocked).
+- Use one accent colour per reel and a dark grid background with a vibrant accent. The vibrant accent keeps our "vibrant, never dark" rule if the accent dominates; alternatively use the light Style B.
+- End with a comment keyword that gives something real, like a checklist (only if we actually send it).
