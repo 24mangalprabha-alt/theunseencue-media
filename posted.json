@@ -75,5 +75,12 @@
     "caption_hook": "Your AI router promised to forget your prompts. Some providers didn't.",
     "style": "studio light (6 laws)",
     "note": "owner said 'post now' (2nd post today, inside the 5h gap by owner's choice); Muse carousel moved to tomorrow"
+  },
+  {
+    "slug": "2026-11-26-0045-mcp-turns-two",
+    "format": "carousel",
+    "topic": "MCP turned 2 (25 Nov): 15 official MCP servers with install commands + check commands",
+    "media_id": "18101561618557013",
+    "posted_at": "2026-11-25T19:16:23Z"
   }
 ]
