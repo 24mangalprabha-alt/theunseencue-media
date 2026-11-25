@@ -1,0 +1,52 @@
+{
+ "slug": "2026-11-24-vibe-coder-autorun",
+ "reel": {
+  "frames": [
+   {
+    "text": "Vibe coders: stop letting your AI agent search the web on auto-run",
+    "seconds": 4.646
+   },
+   {
+    "text": "A new security benchmark tested 8 major search APIs",
+    "seconds": 4.119
+   },
+   {
+    "text": "Every single one fed malware to AI coding agents",
+    "seconds": 3.589
+   },
+   {
+    "text": "Why? Your agent hits an error and searches online",
+    "seconds": 3.348
+   },
+   {
+    "text": "It trusts the top fake GitHub repo",
+    "seconds": 1.973
+   },
+   {
+    "text": "Then runs the install command. Automatically.",
+    "seconds": 2.851
+   },
+   {
+    "text": "You turned on auto-approve",
+    "seconds": 2.239
+   },
+   {
+    "text": "One poisoned README steals your .env API keys in seconds",
+    "seconds": 4.075
+   },
+   {
+    "text": "Turn off auto-run for terminal commands today",
+    "seconds": 3.058
+   },
+   {
+    "text": "Let AI write code. Never execute blindly.",
+    "seconds": 3.328
+   },
+   {
+    "text": "Follow @theunseencue for the AI stories nobody's covering yet",
+    "seconds": 2.0
+   }
+  ],
+  "audio": "media/2026-11-24-vibe-coder-autorun/voiceover.wav"
+ }
+}
