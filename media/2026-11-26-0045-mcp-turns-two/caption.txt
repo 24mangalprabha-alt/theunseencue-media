@@ -1,0 +1,37 @@
+MCP turned 2 yesterday. Here are 15 servers that plug straight into Claude, one command each.
+
+BUILD
+GitHub: claude mcp add --transport http github https://api.githubcopilot.com/mcp/
+Playwright: claude mcp add playwright npx @playwright/mcp@latest
+Chrome DevTools: claude mcp add chrome-devtools -- npx -y chrome-devtools-mcp@latest
+Sentry: claude mcp add --transport http sentry https://mcp.sentry.dev/mcp
+
+RESEARCH
+Context7: claude mcp add --transport http context7 https://mcp.context7.com/mcp
+Firecrawl: claude mcp add firecrawl -e FIRECRAWL_API_KEY=fc-YOUR_KEY -- npx -y firecrawl-mcp
+Exa: claude mcp add --transport http exa https://mcp.exa.ai/mcp
+Brave: claude mcp add brave -e BRAVE_API_KEY=YOUR_KEY -- npx -y @brave/brave-search-mcp-server
+
+RUN
+Stripe: claude mcp add --transport http stripe https://mcp.stripe.com
+Supabase: claude mcp add --transport http supabase https://mcp.supabase.com/mcp
+Hugging Face: claude mcp add --transport http hf https://huggingface.co/mcp
+
+CORE (free, by the MCP team)
+Filesystem: claude mcp add files -- npx -y @modelcontextprotocol/server-filesystem ~/Projects
+Memory: claude mcp add memory -- npx -y @modelcontextprotocol/server-memory
+Git: claude mcp add git -- uvx mcp-server-git --repository .
+Fetch: claude mcp add fetch -- uvx mcp-server-fetch
+
+CHECK FIRST
+claude mcp list
+npm view <package> repository.url
+npx @modelcontextprotocol/inspector
+
+A server can run code on your machine. Install from official orgs only.
+
+Which one are you adding first?
+
+Sources: anthropic.com/news/model-context-protocol, each server's official GitHub repo and npm page (checked 26 Nov 2026). Not sponsored.
+
+#claudecode #mcp #aiagents #aitools #developers
