@@ -1,0 +1,13 @@
+{
+  "slug": "2026-11-24-vibe-coder-autorun",
+  "format": "reel",
+  "topic": "WebSec benchmark: 8 search APIs returned malicious results to AI coding agents; turn off auto-run",
+  "video_url": "https://raw.githubusercontent.com/24mangalprabha-alt/theunseencue-media/52ca0b2d28e2d003dc1d17cc53acd6e3bb92c347/media/2026-11-24-vibe-coder-autorun/reel-v2.mp4",
+  "cover_url": "https://raw.githubusercontent.com/24mangalprabha-alt/theunseencue-media/52ca0b2d28e2d003dc1d17cc53acd6e3bb92c347/media/2026-11-24-vibe-coder-autorun/reel-v2_cover.jpg",
+  "caption": "Your AI coding agent might be installing malware for you.\n\nA new benchmark ran thousands of normal coding-agent searches through 8 search tools that AI agents use. Every single one returned malicious or risky results, in about 1 to 2% of searches.\n\nIn one real case, the top GitHub result for a Solana starter kit installed a remote access trojan. With auto-run on, nobody reads that install command first.\n\nThe fix is simple: turn off auto-run for terminal commands. Let AI write the code. You approve what runs.\n\nNote: the study is by AIR, a company that sells agent security, and it hasn't been independently repeated yet.\n\nDo you let your agent run commands on its own? \ud83d\udc47\n\nSource: AIR WebSec benchmark, The Hacker News, Cloud Security Alliance\n\n#AI #vibecoding #cybersecurity #AIagents #coding",
+  "sources": [
+    "https://www.air.security/blog-posts/out-of-stealth",
+    "https://thehackernews.com/expert-insights/2026/11/ai-coding-agents-are-getting-malicious.html",
+    "https://labs.cloudsecurityalliance.org/research/csa-research-note-search-api-poisoning-coding-agents-2026112/"
+  ]
+}
