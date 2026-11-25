@@ -1,0 +1,11 @@
+Your AI router promised to forget your prompts. Some providers didn't.
+A router is like a courier. It hands your message to whoever runs the AI cheapest.
+Security firm Dragos sent two million test messages, each hiding a fake password.
+Some of those fake keys were used within hours.
+On November twenty second, OpenRouter cut three providers and pulled one hundred twenty five endpoints from zero data retention.
+Dragos says some sellers list models at the lowest price, turn on logging, and wait.
+So here's the rule. Never paste a password or a key into any AI chat.
+Already did? Change it today.
+Building with AI? Pin your provider, or go straight to the model maker, like OpenAI, Anthropic or Google.
+A privacy flag is a promise, not encryption.
+Follow for the AI stories nobody's covering yet.
