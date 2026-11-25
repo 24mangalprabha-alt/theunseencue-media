@@ -48,5 +48,18 @@
     "media_id": "unknown (owner says already posted)",
     "posted_at": "2026-11-23T02:04:46Z",
     "caption_hook": "Give an AI agent your bank login, and your bank may say every move it makes is on you."
+  },
+  {
+    "slug": "2026-11-24-vibe-coder-autorun",
+    "format": "reel",
+    "topic": "WebSec benchmark: 8 search APIs returned malicious results to AI coding agents; turn off auto-run",
+    "sources": [
+      "https://www.air.security/blog-posts/out-of-stealth",
+      "https://thehackernews.com/expert-insights/2026/11/ai-coding-agents-are-getting-malicious.html",
+      "https://labs.cloudsecurityalliance.org/research/csa-research-note-search-api-poisoning-coding-agents-2026112/"
+    ],
+    "media_id": "18024396992727952",
+    "posted_at": "2026-11-25T09:29:21Z",
+    "caption_hook": "Your AI coding agent might be installing malware for you."
   }
 ]
