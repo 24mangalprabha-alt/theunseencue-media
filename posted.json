@@ -1,86 +1,96 @@
 [
-  {
-    "slug": "2026-11-21-gemini-4-neon",
-    "format": "carousel",
-    "topic": "Google launches Gemini 4 Neon (orchestrates Hydrogen sub-agents)",
-    "sources": [
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "https://antigravity.google/blog/gemini-4-neon-in-google-antigravity/"
-    ],
-    "media_id": "17967153387213679",
-    "posted_at": "2026-11-21T08:05:00Z",
-    "caption_hook": "Google's newest AI doesn't just answer questions. It runs a team of other AIs."
-  },
-  {
-    "slug": "2026-11-21-1410-gemini-mac-computer-use",
-    "format": "reel",
-    "topic": "Gemini app on Mac gets computer use (Google, 19 Nov 2026)",
-    "sources": [
-      "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
-      "https://support.google.com/gemini/answer/18956635",
-      "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-    ],
-    "media_id": "18060383696803364",
-    "posted_at": "2026-11-21T12:30:00Z",
-    "caption_hook": "Google's AI can now take over your Mac and do the clicking for you."
-  },
-  {
-    "slug": "2026-11-22-0015-signal-blocks-ai-screen",
-    "format": "carousel",
-    "topic": "Signal blocks phone AI assistants (Siri, Gemini) from reading chats via screenshots",
-    "sources": [
-      "https://signal.org/blog/protecting-your-privacy/",
-      "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "https://cyberinsider.com/signal-blocks-screenshots-ios-27-android-ai-assistants/"
-    ],
-    "media_id": "18114742412156864",
-    "posted_at": "2026-11-22T13:06:30Z",
-    "caption_hook": "Signal is now blocking your phone's AI assistant from reading your private chats."
-  },
-  {
-    "slug": "2026-11-22-1800-ai-agent-bank-liability",
-    "format": "reel",
-    "topic": "Banks (Citi, JPMorgan, BofA, PNC) make customers liable for third-party AI agent actions",
-    "sources": [
-      "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"
-    ],
-    "media_id": "unknown (owner says already posted)",
-    "posted_at": "2026-11-23T02:04:46Z",
-    "caption_hook": "Give an AI agent your bank login, and your bank may say every move it makes is on you."
-  },
-  {
-    "slug": "2026-11-24-vibe-coder-autorun",
-    "format": "reel",
-    "topic": "WebSec benchmark: 8 search APIs returned malicious results to AI coding agents; turn off auto-run",
-    "sources": [
-      "https://www.air.security/blog-posts/out-of-stealth",
-      "https://thehackernews.com/expert-insights/2026/11/ai-coding-agents-are-getting-malicious.html",
-      "https://labs.cloudsecurityalliance.org/research/csa-research-note-search-api-poisoning-coding-agents-2026112/"
-    ],
-    "media_id": "18024396992727952",
-    "posted_at": "2026-11-25T09:29:21Z",
-    "caption_hook": "Your AI coding agent might be installing malware for you."
-  },
-  {
-    "slug": "2026-11-25-2000-openrouter-zdr-trap",
-    "format": "reel",
-    "topic": "OpenRouter off-boards 3 providers, 125 endpoints lose ZDR after Dragos canary test",
-    "sources": [
-      "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
-    ],
-    "media_id": "18083170181734984",
-    "posted_at": "2026-11-25T14:09:41Z",
-    "caption_hook": "Your AI router promised to forget your prompts. Some providers didn't.",
-    "style": "studio light (6 laws)",
-    "note": "owner said 'post now' (2nd post today, inside the 5h gap by owner's choice); Muse carousel moved to tomorrow"
-  },
-  {
-    "slug": "2026-11-26-0045-mcp-turns-two",
-    "format": "carousel",
-    "topic": "MCP turned 2 (25 Nov): 15 official MCP servers with install commands + check commands",
-    "media_id": "18101561618557013",
-    "posted_at": "2026-11-25T19:16:23Z"
-  }
+ {
+  "slug": "2026-11-21-gemini-4-neon",
+  "format": "carousel",
+  "topic": "Google launches Gemini 4 Neon (orchestrates Hydrogen sub-agents)",
+  "sources": [
+   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "https://antigravity.google/blog/gemini-4-neon-in-google-antigravity/"
+  ],
+  "media_id": "17967153387213679",
+  "posted_at": "2026-11-21T08:05:00Z",
+  "caption_hook": "Google's newest AI doesn't just answer questions. It runs a team of other AIs."
+ },
+ {
+  "slug": "2026-11-21-1410-gemini-mac-computer-use",
+  "format": "reel",
+  "topic": "Gemini app on Mac gets computer use (Google, 19 Nov 2026)",
+  "sources": [
+   "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+   "https://support.google.com/gemini/answer/18956635",
+   "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+  ],
+  "media_id": "18060383696803364",
+  "posted_at": "2026-11-21T12:30:00Z",
+  "caption_hook": "Google's AI can now take over your Mac and do the clicking for you."
+ },
+ {
+  "slug": "2026-11-22-0015-signal-blocks-ai-screen",
+  "format": "carousel",
+  "topic": "Signal blocks phone AI assistants (Siri, Gemini) from reading chats via screenshots",
+  "sources": [
+   "https://signal.org/blog/protecting-your-privacy/",
+   "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+   "https://cyberinsider.com/signal-blocks-screenshots-ios-27-android-ai-assistants/"
+  ],
+  "media_id": "18114742412156864",
+  "posted_at": "2026-11-22T13:06:30Z",
+  "caption_hook": "Signal is now blocking your phone's AI assistant from reading your private chats."
+ },
+ {
+  "slug": "2026-11-22-1800-ai-agent-bank-liability",
+  "format": "reel",
+  "topic": "Banks (Citi, JPMorgan, BofA, PNC) make customers liable for third-party AI agent actions",
+  "sources": [
+   "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"
+  ],
+  "media_id": "unknown (owner says already posted)",
+  "posted_at": "2026-11-23T02:04:46Z",
+  "caption_hook": "Give an AI agent your bank login, and your bank may say every move it makes is on you."
+ },
+ {
+  "slug": "2026-11-24-vibe-coder-autorun",
+  "format": "reel",
+  "topic": "WebSec benchmark: 8 search APIs returned malicious results to AI coding agents; turn off auto-run",
+  "sources": [
+   "https://www.air.security/blog-posts/out-of-stealth",
+   "https://thehackernews.com/expert-insights/2026/11/ai-coding-agents-are-getting-malicious.html",
+   "https://labs.cloudsecurityalliance.org/research/csa-research-note-search-api-poisoning-coding-agents-2026112/"
+  ],
+  "media_id": "18024396992727952",
+  "posted_at": "2026-11-25T09:29:21Z",
+  "caption_hook": "Your AI coding agent might be installing malware for you."
+ },
+ {
+  "slug": "2026-11-25-2000-openrouter-zdr-trap",
+  "format": "reel",
+  "topic": "OpenRouter off-boards 3 providers, 125 endpoints lose ZDR after Dragos canary test",
+  "sources": [
+   "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+  ],
+  "media_id": "18083170181734984",
+  "posted_at": "2026-11-25T14:09:41Z",
+  "caption_hook": "Your AI router promised to forget your prompts. Some providers didn't.",
+  "style": "studio light (6 laws)",
+  "note": "owner said 'post now' (2nd post today, inside the 5h gap by owner's choice); Muse carousel moved to tomorrow"
+ },
+ {
+  "slug": "2026-11-26-0045-mcp-turns-two",
+  "format": "carousel",
+  "topic": "MCP turned 2 (25 Nov): 15 official MCP servers with install commands + check commands",
+  "media_id": "18101561618557013",
+  "posted_at": "2026-11-25T19:16:23Z"
+ },
+ {
+  "slug": "2026-11-26-2000-kids-thinking-real",
+  "format": "reel",
+  "topic": "Who's doing your child's thinking? AI and kids' thinking (MIT, Gerlich, Jakesch, Doshi & Hauser, Common Sense, Brookings)",
+  "media_id": "17955128889050957",
+  "posted_at": "2026-11-26T12:06:07Z",
+  "caption_hook": "Who's doing your child's thinking?",
+  "style": "real Pexels footage version",
+  "note": "Trial Reel refused (follower requirement); owner chose the real-footage version 'as it is'. 2nd post of 26 Nov IST; Muse carousel moves to 27 Nov"
+ }
 ]
