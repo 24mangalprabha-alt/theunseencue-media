@@ -92,5 +92,18 @@
   "caption_hook": "Who's doing your child's thinking?",
   "style": "real Pexels footage version",
   "note": "Trial Reel refused (follower requirement); owner chose the real-footage version 'as it is'. 2nd post of 26 Nov IST; Muse carousel moves to 27 Nov"
+ },
+ {
+  "slug": "2026-11-27-cli-anything",
+  "format": "reel",
+  "topic": "CLI-Anything (HKUDS): turn any app into a CLI your AI agent can drive; 66,765 stars; comment-keyword CTA 'CLI'",
+  "sources": [
+   "https://github.com/HKUDS/CLI-Anything"
+  ],
+  "media_id": "18150231550575145",
+  "posted_at": "2026-11-27T15:43:47Z",
+  "caption_hook": "Your AI agent can now use almost any app on your computer.",
+  "style": "cream repo-explainer v2 (format of a proven reel, our own design); voice matched to 4.7 syll/s, 0.24s pauses",
+  "note": "Owner must DM the repo link by hand to everyone who comments CLI"
  }
 ]
