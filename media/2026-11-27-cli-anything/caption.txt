@@ -1,0 +1,20 @@
+Your AI agent can now use almost any app on your computer. Even apps with no MCP.
+
+CLI-Anything (66K stars on GitHub, free, Apache-2.0) turns an app like GIMP or Blender into a command line your agent can drive. It reads the app, writes the commands, tests them and installs them.
+
+In Claude Code:
+/plugin marketplace add HKUDS/CLI-Anything
+/plugin install cli-anything
+Then: /cli-anything ./gimp
+
+Or grab a ready-made one:
+pip install cli-anything-hub
+cli-hub install gimp
+
+It runs code on your machine, so install from the official repo only.
+
+Comment CLI and I'll send you the repo.
+
+Source: github.com/HKUDS/CLI-Anything (checked 27 Nov 2026). Not sponsored. Narrated with an AI voice.
+
+#claudecode #aiagents #github #aitools #mcp
