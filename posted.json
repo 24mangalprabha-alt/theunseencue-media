@@ -105,5 +105,20 @@
   "caption_hook": "Your AI agent can now use almost any app on your computer.",
   "style": "cream repo-explainer v2 (format of a proven reel, our own design); voice matched to 4.7 syll/s, 0.24s pauses",
   "note": "Owner must DM the repo link by hand to everyone who comments CLI"
+ },
+ {
+  "slug": "2026-11-28-launch-guard",
+  "format": "reel",
+  "topic": "Launch Guard: free Claude skill that checks vibe-coded apps for the 5 real leaks + 15 quick checks; Claude vs Codex beat (Veracode 2025); comment-keyword CTA 'SKILL'",
+  "sources": [
+   "https://nvd.nist.gov/vuln/detail/CVE-2025-48757",
+   "https://www.veracode.com/press-release/ai-generated-code-poses-major-security-risks-in-nearly-half-of-all-development-tasks-veracode-research-reveals/"
+  ],
+  "media_id": "17911347438670017",
+  "permalink": "https://www.instagram.com/reel/DgR_lfsxsDV/",
+  "posted_at": "2026-11-28T10:02:34Z",
+  "caption_hook": "Your vibe-coded app is probably leaking right now.",
+  "style": "cream tool-explainer (format of @adilet.fndr + @mihad.builds model-swap beat, our own design); 36.8s",
+  "note": "Owner must DM the skill link https://github.com/24mangalprabha-alt/theunseencue-media/tree/main/skills/launch-guard to everyone who comments SKILL"
  }
 ]
