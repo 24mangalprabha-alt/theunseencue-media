@@ -1,0 +1,25 @@
+Your vibe-coded app is probably leaking right now.
+
+3 real cases:
+• Lovable: one missing database rule left 170+ apps open (CVE-2025-48757, count reported by researcher Matt Palmer)
+• Tea app: one open storage bucket leaked ~72,000 photos, including ID photos (July 2025)
+• An AI agent deleted SaaStr's live database during a code freeze (July 2025, as reported by its founder)
+
+And switching from Claude to Codex won't fix it: a test of 100+ AI models found flaws in 45% of coding tasks, and bigger models were no safer (Veracode, July 2025, vendor study).
+
+So I made a free Claude skill, Launch Guard. Before you launch, it checks the 5 things that leaked real apps:
+1. Database rules
+2. Open storage
+3. Exposed keys
+4. Fake packages
+5. An AI agent with access to production
+Plus 15 quick checks: SQL injection, XSS, CSRF, uploads, SSRF, rate limits, passwords, server-side permissions, JWT secret, tokens, default logins, CORS, webhooks, source maps, logs.
+
+You get a red/green report, and it fixes what's red (only after you say yes).
+
+Comment SKILL and I'll send it to you.
+
+Sources: NVD CVE-2025-48757 · Tea statement via Engadget & The Record · The Register (Replit/SaaStr) · Veracode GenAI Code Security Report 2025.
+Made with AI tools, narrated with an AI voice.
+
+#vibecoding #claudecode #cybersecurity #ai #buildinpublic
